@@ -1,6 +1,3 @@
-# Celestial-bodies-fCC
-Celestial Bodies fCC
-
 # Celestial Bodies Database
 
 > Welcome! Are you ready to build a database of the universe?
